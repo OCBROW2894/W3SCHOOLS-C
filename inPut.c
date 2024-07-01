@@ -1,6 +1,11 @@
 /*
  * scanf function for getting a one word from the user
  * fgets function for getting a string from the user
+ * %s- for strings
+ * %c- for characters
+ * %d- for integers
+ * %p- for pointers/ memory Address
+ * %f- for float
 */
 
 #include<stdio.h>;
